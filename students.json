@@ -1,0 +1,22 @@
+[
+  { "firstName": "Ahmed", "lastName": "Ali", "age": 16, "class": "10", "section": "A" },
+  { "firstName": "Sara", "lastName": "Hassan", "age": 15, "class": "9", "section": "B" },
+  { "firstName": "Mohamed", "lastName": "Omar", "age": 17, "class": "11", "section": "A" },
+  { "firstName": "Lina", "lastName": "Nour", "age": 14, "class": "8", "section": "C" },
+  { "firstName": "Hala", "lastName": "Fadel", "age": 16, "class": "10", "section": "B" },
+  { "firstName": "Youssef", "lastName": "Amr", "age": 17, "class": "11", "section": "A" },
+  { "firstName": "Omar", "lastName": "Ahmed", "age": 15, "class": "9", "section": "A" },
+  { "firstName": "Nour", "lastName": "Khaled", "age": 14, "class": "8", "section": "B" },
+  { "firstName": "Rania", "lastName": "Samer", "age": 16, "class": "10", "section": "C" },
+  { "firstName": "Tarek", "lastName": "Mahmoud", "age": 17, "class": "11", "section": "B" },
+  { "firstName": "Mona", "lastName": "Hani", "age": 15, "class": "9", "section": "C" },
+  { "firstName": "Hani", "lastName": "Rami", "age": 14, "class": "8", "section": "A" },
+  { "firstName": "Ali", "lastName": "Jamal", "age": 16, "class": "10", "section": "A" },
+  { "firstName": "Reem", "lastName": "Samir", "age": 15, "class": "9", "section": "B" },
+  { "firstName": "Amira", "lastName": "Youssef", "age": 14, "class": "8", "section": "C" },
+  { "firstName": "Khaled", "lastName": "Nader", "age": 17, "class": "11", "section": "A" },
+  { "firstName": "Samir", "lastName": "Tamer", "age": 15, "class": "9", "section": "B" },
+  { "firstName": "Fatma", "lastName": "Salem", "age": 14, "class": "8", "section": "A" },
+  { "firstName": "Ola", "lastName": "Saeed", "age": 16, "class": "10", "section": "C" },
+  { "firstName": "Nadia", "lastName": "Hisham", "age": 17, "class": "11", "section": "B" }
+]
